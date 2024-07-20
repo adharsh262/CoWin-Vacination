@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.VaccinationCoverageContainerGender {
+  background-color: #1c1c2b;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.paraAlign {
+  padding-left: 40px;
+  font-weight: 800;
+  font-size: 15px;
+}
